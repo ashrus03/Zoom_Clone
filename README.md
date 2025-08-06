@@ -1,7 +1,3 @@
-No problem, Ashwin. Here is a plain text version of the README file.
-
-You can copy this text and save it as `README.md` in your project folder.
-
 ```
 # Zoom Clone
 
